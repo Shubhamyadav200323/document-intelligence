@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 
-const API = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+const API = import.meta.env.VITE_API_URL || 'https://document-intelligence-swart.vercel.app/'
 
 const C = {
   bg: '#0f0f13',
