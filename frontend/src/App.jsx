@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 
-const API = import.meta.env.VITE_API_URL || 'document-intelligence-production-4e22.up.railway.app'
+const API = import.meta.env.VITE_API_URL || 'https://document-intelligence-production-4e22.up.railway.app'
 
 const C = {
   bg: '#0f0f13',
