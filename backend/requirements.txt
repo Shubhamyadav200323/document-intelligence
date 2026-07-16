@@ -7,6 +7,6 @@ sentence-transformers==2.7.0
 groq==0.4.2
 python-dotenv==1.0.1
 pydantic==2.6.4
-numpy==1.26.4
-scikit-learn==1.4.2
+numpy==2.1.0
+scikit-learn==1.5.2
 huggingface-hub==0.20.3
